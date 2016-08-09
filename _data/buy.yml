@@ -49,7 +49,17 @@
    desc_pt_br: Câmbio de moeda digital. A maneira mais fácil de comprar bitcoins com o PayPal.
    desc_es: Intercambio de moneda digital. La forma más fácil de comprar bitcoin con PayPal. 
    desc_he: המרת מטבע דיגיטלי. הדרך הקלה ביותר לקנות ביטקוין באמצעות פייפאל.
- 
+   
+ - name: WeMoveCoins.com
+   desc: The most convenient way to buy bitcoins with a Debit or Credit card online. 
+   url: https://wemovecoins.com
+   icon: https://wemovecoins.com/wp-content/uploads/2016/06/Logo-EGM.png
+   countries: al, az, by, bg, hr, cz, dk, at, be, cy, ee, fi, fr, de, gr, ie, it, lv, li, lt, lu, mt, mc, me, nl, pt, sk, si, es, ge, hu, is, ch, mk, md, nor, pl, rs, se, tr, gb, south-africa, in
+   po: ccww, ccwwtop, cc
+   desc_fast: <a href="https://wemovecoins.com">WeMoveCoins.com</a> Allows you to buy bitcoins with Visa, MasterCard and Maestro, in a simple, easy and convenient way. It is one of the fastest way to get started with bitcoin and there is no need for even setting up a user account. Simply select your amount, input your address and pay with your credit card. WeMovecoins.com is serving European, Indian and South African customers.
+   desc_ccww_short: Buy bitcoins with a credit or debit card in Europe
+   desc_ccww: https://wemovecoins.com">WeMoveCoins.com</a> is the most convenient way to buy bitcoins world wide. It is a perfect site to buy your first bitcoins, since the hole buying experience is smooth and simple, and due to their on-site chat support, you can allways get help from their friendly staff. WeMoveCoins.com however does not offer wallets to their customers but they have excellent guides and <a href="https://wemovecoins.com/resources/tutorials/">tutorials</a> get started with bitcoin and setup your own wallet. 
+
  - name: Bity
    desc: Fast and easy way to buy bitcoin. Buy up to 250 €/CHF a day with phone verification.
    url: http://bity.com/
